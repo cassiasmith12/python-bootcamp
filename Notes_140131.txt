@@ -1,0 +1,48 @@
+Notes Python Bootcamp (Jan 31 2014)
+
+Suggested dates: June 9,11,13 (Monday, Wednesday and Friday)
+
+TODO
+
+1. find a room: bld 3? (friday taken, sci colloquium), 8?
+need to schedule room within next few weeks.
+The idea is to reserve a big room for ~100 people,
+reserve some spots for the interns, then open the registration.
+multiple rooms? would need more people...
+
+--> Jeremy: find the room, find the old list of participants and 
+excluded from last year (get priority this year). 
+
+--> Nino (antonino.cucchiara@nasa.gov) will collect ideas/proposals 
+for intern prep. before they can take the bootcamp.
+pre-workshop?unix base training?pre-screening?
+
+2. website
+--> Dave Davis will take over.
+
+3. Agenda
+--> EVERYBODY get github: people need to look up agenda and 
+topics. It has been recently merged with Berkeley bootcamp
+
+4. Announcements
+--> Joey Gurganus will send the Announcements to the different codes
+--> Jeremy send Joey the relevant mailing lists
+
+
+--Need People--
+leaders (~6-7)
+helpers (everyone)
+registrars/organizers
+network contact guys info
+
+for leaders, helpers
+	check github. what are you comfortable leading/helping with?
+
+Brad: too many people took old slides and tried to go over them,
+	didn't tailor it to what they wanted to present.
+	make sure you are really comfortable with everything that's on there
+
+
+meeting every other week.
+Next meeting Feb 14, 1pm.
+
